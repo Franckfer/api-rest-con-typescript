@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "date": "2017-01-01",
+        "weather": "rainy",
+        "visibility": "poor",
+        "comment": "Pretty sacry flight, I'm glad I'm alive"
+    },
+    {
+        "id": 2,
+        "date": "2017-04-01",
+        "weather": "sunny",
+        "visibility": "good",
+        "comment": "Everything went better than expected, I'm learning much"
+    },
+    {
+        "id": 3,
+        "date": "2017-04-20",
+        "weather": "windy",
+        "visibility": "poor",
+        "comment": "I´m getting pretty confident although I hit a flock of birds"
+    },
+    {
+        "id": 4,
+        "date": "2017-05-17",
+        "weather": "cloudy",
+        "visibility": "good",
+        "comment": "Pretty sacry flight, I'm glad I'm alive"
+    },
+    {
+        "id": 5,
+        "date": "2017-06-01",
+        "weather": "windy",
+        "visibility": "good",
+        "comment": "I almost failed the landing but I survived"
+    },
+    {
+        "id": 6,
+        "date": "2017-06-30",
+        "weather": "rainy",
+        "visibility": "poor",
+        "comment": "Pretty sacry flight, I'm glad I'm alive"
+    }
+]
